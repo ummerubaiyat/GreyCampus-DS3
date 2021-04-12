@@ -17,7 +17,6 @@ raw_data = read.csv("Covid19.csv")
 
 
 
-
 #Step 1: Keep rows containing country information and remove the rest of the rows.
 #Apart from the country, you should not be having any other row. 
 #Move on to the next step only after finishing this.
